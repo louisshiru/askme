@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+*{
+	font-family : 'Noto Sans TC';
+}
+
+body 
+{
+	background : #00ffa336;
+}
+
+h1 
+{
+	text-align : center;
+	height : 800px;
+	background-repeat : no-repeat;
+	background-image : url(bg01.png);
+	background-position : center;
+}
+
+.QRcode
+{
+	position : absolute;
+	left:0;
+	top:0;
+}
+
+#f1
+{
+	position : absolute;
+	left : 50%;
+	top : 175px;
+	transform: translate(-50%, -50%);
+	padding-top : 200px;
+	z-index : 5;
+}
+
+.img01
+{
+	position : absolute;
+	margin-top : -65px;
+	margin-left : 130px;
+	z-index : 1;
+}
+
+.MessageSection
+{
+	position : relative;
+	width : 270px;
+	height : auto;
+	margin-left : 630px;
+	top : -35px;
+	z-index : 2;
+}
+
+.ImgBlock
+{
+	position : center;
+	width : 400px;
+	height : auto;
+	background-size : contain;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel = "stylesheet" type = "text/css" href="./templates/myapp.css">
+	<link rel="icon" href="./templates/icon.png">
+
+	<title>Askme！找劇神器</title>
+	</head>
+	
+	<body>
+
+		<img src = './templates/QRcode' class = 'QRcode'>
+
+		<h1>
+			<form ID = "f1" action= {{NgrokIP}} method = "post">
+
+			<div>
+				<input type="text" name='UserInput' placeholder="請告訴機器人你想要什麼">
+				<input type = "submit" value = "Enter" style='display: none;'>
+			</div>
+
+		
+			<div class = 'container'>
+				<img class = 'img01' src = './templates/MessageSection.png'>
+
+				<div class = 'MessageSection'>
+				{% if ServerOutput %}
+				{{ServerOutput}}
+				{% else %}
+				嗨你好！
+				{% endif %}
+				</div>
+			
+			</div>
+		
+		</h1>
+		
+		<h2>
+			<div class 'container2'>
+
+			{% if imageHerf %}
+			<a href= {{imageHerf}}> <img src= {{imageSrc}} class = 'ImgBlock'></a>
+			{% else %}
+			<a href=""><img src="" class = 'ImgBlock'></a>
+			{% endif %}
+
+			</div>
+		</h2>
+	
+	</body>
+	
+</html>

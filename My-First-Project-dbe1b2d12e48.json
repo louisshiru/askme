@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "exalted-country-203003",
+  "private_key_id": "dbe1b2d12e484bc317250a1830a3386367826c9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwrEjqR9e+6ylY\npYZvCTFrtrI9b6sfs+hcvUTHYq9R/YgJFNKghuBbC6cRJUNShc6IpxN6eXMFEcY5\nMr9+yit3yN4wftPsy97NWk7KgqXD+bxsEPhWzNem490Q1pfxb8f1WWRr2k8syigM\nsDNyrZi2a7IAUEdh7QzX10KvwLCIwATVsIPNqO/hhI8ZnqRY1LcF9TdZiRKtVK4f\ntasxdIgiXnFF91RrEBU6BiWaVMY3zYeYoqM0NSnJRbMxygu1YaA++TWacK+5NU/1\nDWCvBIIjh9UYeYHkLPhpgqLoR9qTwKPLHfSw7n4Ea1jyzC9PAuLk1HKQURgIFkId\npv+61wAFAgMBAAECggEAPthiLZh1uc+sCwECc5/5CQBZofoFjMbx6n9XJnfHtqox\niE10aS7hQvG/sZ0oOAQqBjkseB4YmJ6MfQ88yCzBTqBQzT5oQ2z36eNscKQNtEsz\nR9u3gyTlt1OJ8THspbEmF3P/gVAMZvnYSj8pZeszjfx8OplT8xUgQu0rJxqrkVDp\ncFLa4LzV39MQ6cWriG2/Kawm/V3Intm6c6FydC2LMVBQsP/tSeZQ7nE4t0SjPaXL\nfzgVZb56sg4Y8h5QPzYTxsLdtzSxVe2VKEakBjvKaStgqdayfvB3VlpoPjf558Lz\nxaPEapv5uKnIH8lU2SOzniDlNt9I7JqxdibpL2DhhwKBgQDZgQmtX8exmGly3vyj\nnvbIV+IqkZReDLnJo3ZkTEabhFVF1i/LIYyY5xKn5iseeI7Y2ueNzu9Yhpwwn3lj\nCsw5mz2suNt+gwXdC7MDu33GgIUr7EVyuoga1zLwArtYVJOKR+FWUjLEWEEot9Q6\nC9D4X3s5FzH+lt27ZxmpCkQxGwKBgQDP8TgKTbU+6kzR2AxCZ1nSVTMoQuu047JR\nUmeAEVGISIqVXRf0RKt0JUob+IzJyo4dHmzXTHIM7TKOSqjgySE8cML4IDLjRWJf\nl3Ogqx46fKZX647xFWUgnStIs4blYJPAec2w6zCgu4yqOcFyG8LFr6uJO31EBInK\nyC8ScC3FXwKBgFNdaPchsel48FnN6+lOwWnSfWYxfDt8By2o0HTq41kyJHjq+lCS\nIFBuqLDfwIEiViX56SxqN0Sn+2+LgDwc5F/kB4SPKdnYoEOz+z4f+7o8gk5udcPe\niNI4z1Y8xc+6Qv6KRG0QflLRPNA9fUNuSf8YoaMlJ81bx8rPXn9y5uYnAoGAMKC6\neD5f6kykllYt18GPkc523i14LZ8p7jaVGa/zHynHrtJMbcU5SzoFMLFZSz9hKJIa\n5eZsrXUy42+2OosOiLHeBmSRQfDR5oTmd2ZM9WR9CgZ+MQbN1Wir3J6PJ0kEhHh3\nj64QeyYg6RYElQjE7bH9LWSKEMP27UMPLwKo0YUCgYBb1qzUuy4NhczFF+DDdgDd\n9wGqpjECddjvrzNNZQo7W57Sktn7gXnQ/7lOL0tmRBTmI8nqSxHx4widqYU27McS\nYV+d1RsqFXa0ifpIHVv4grtYfLu/RcWLzWioQXcfpU76IhF077SfuTojHCjYzA0K\n+F5W7Pmp216K9k6+y0Pldw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ai-260@exalted-country-203003.iam.gserviceaccount.com",
+  "client_id": "106077478406766092118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ai-260%40exalted-country-203003.iam.gserviceaccount.com"
+}
